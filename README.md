@@ -49,3 +49,5 @@ Customtoken - 0x12Cad7A787de63439cc31E55D0cDf6262185Ee34
 ## Deployment
 
 The Dapp is deployed in Heroku and the deployed Url is - https://uniswap-3-eth.herokuapp.com/
+
+- the app was redeployed in the netlify and the [deployed url is](https://main--incandescent-sprite-07b6f1.netlify.app/)
